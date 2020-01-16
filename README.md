@@ -1,2 +1,5 @@
 # hello-world
-practice
+
+hi people
+
+this is for practice
